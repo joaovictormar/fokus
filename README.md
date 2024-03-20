@@ -26,7 +26,7 @@ Como visto acima, o projeto ainda contém um botão de música para escutar enqu
 
 * JavaScript
 
-* Local-Storage
+* LocalStorage
   
 ## Desenvolvido por:
 
