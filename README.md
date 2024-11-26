@@ -26,10 +26,4 @@ Como visto acima, o projeto ainda contém um botão de música para escutar enqu
 
 * JavaScript
 
-* LocalStorage
-  
-## Desenvolvido por:
 
-### João Victor
-
-### Linkedin: https://www.linkedin.com/in/joaovictormar/
